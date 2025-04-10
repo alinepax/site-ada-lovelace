@@ -9,7 +9,7 @@ Este repositório contém um site informativo dedicado à vida e legado de **Ada
 
 ```
 siteada/
-├── assets/          # Arquivos de mídia (imagens, vídeos, etc.)
+├── assets/          # Arquivos de imagens
 ├── css/             # Arquivos de estilo CSS
 ├── js/              # Arquivos JavaScript
 ├── index.html       # Página principal do site
@@ -20,10 +20,8 @@ siteada/
 
 ## 🎯 Funcionalidades do Site
 
-- **Biografia Completa**: Apresenta uma visão detalhada da vida de Ada Lovelace, suas contribuições e impacto na computação.
-- **Linha do Tempo Interativa**: Destaca os principais eventos da vida de Ada Lovelace de forma cronológica e interativa.
-- **Galeria de Imagens**: Exibe retratos e documentos históricos relacionados a Ada Lovelace.
-- **Citações Inspiradoras**: Apresenta frases marcantes de Ada Lovelace e de outros sobre ela.
+- **Biografia**: Apresenta uma visão da vida de Ada Lovelace, suas contribuições e impacto na computação.
+- **Linha do Tempo**: Destaca os principais eventos da vida de Ada Lovelace de forma cronológica.
 - **Design Responsivo**: Layout adaptável para diferentes dispositivos, proporcionando uma experiência consistente em desktops, tablets e smartphones.
 
 ---
