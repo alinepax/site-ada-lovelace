@@ -3,41 +3,52 @@
 
 Este repositório contém um site informativo dedicado à vida e legado de **Ada Lovelace**, considerada a primeira programadora da história. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de fornecer uma experiência interativa e educativa sobre essa figura histórica.
 
+📍 **Acesse o site publicado aqui:**  
+➡️ [https://alinepax.github.io/site-ada-lovelace/](https://alinepax.github.io/site-ada-lovelace/)
+
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```
 siteada/
-├── assets/          # Arquivos de imagens
-├── css/             # Arquivos de estilo CSS
-├── js/              # Arquivos JavaScript
-├── index.html       # Página principal do site
-└── README.md        # Documentação do projeto
+├── css/
+│   └── style.css        # Estilos da página
+├── img/
+│   ├── adaPintura.png   # Imagem ilustrativa de Ada
+│   ├── adaCrianca.png   # Imagem da infância de Ada
+│   ├── adaTabela.png    # Tabela com algoritmo
+│   └── preview.png      # Print do site
+├── js/
+│   └── script.js        # Script JavaScript
+├── index.html           # Página principal do site
+└── README.md            # Documentação do projeto
 ```
 
 ---
 
 ## 🎯 Funcionalidades do Site
 
-- **Biografia**: Apresenta uma visão da vida de Ada Lovelace, suas contribuições e impacto na computação.
-- **Linha do Tempo**: Destaca os principais eventos da vida de Ada Lovelace de forma cronológica.
-- **Design Responsivo**: Layout adaptável para diferentes dispositivos, proporcionando uma experiência consistente em desktops, tablets e smartphones.
+- **Biografia de Ada Lovelace**: Informações detalhadas sobre sua infância, juventude e vida adulta.
+- **Linha do Tempo**: Destaque cronológico dos principais eventos da vida de Ada.
+- **Galeria de Imagens**: Representações visuais de momentos marcantes.
+- **Links para Outras Mulheres na Tecnologia**: Referências a pioneiras como Grace Hopper, Dorothy Vaughan, Margaret Hamilton e Katherine Johnson.
+- **Formulário de Contato**: Para visitantes interessados em receber mais informações.
+- **Design Responsivo**: Layout adaptável para diferentes dispositivos, proporcionando uma experiência consistente em desktops, tablets e smartphones.  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estruturação do conteúdo.
-- **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Funcionalidades interativas e dinâmicas.
-- **Bibliotecas Externas**: [Bootstrap](https://getbootstrap.com/) para componentes responsivos e [AOS](https://michalsnik.github.io/aos/) para animações de rolagem.
+- **CSS3**: Estilização e layout.
+- **JavaScript**: Interatividade e funcionalidades dinâmicas.
 
 ---
 
 ## 📸 Prévia do Site
 
-![Prévia do Site](assets/images/preview.png)
+![Prévia do Site](img/preview.png)
 
 *Nota: Para visualizar todas as funcionalidades e interatividades, acesse o site diretamente.*
 
@@ -47,12 +58,12 @@ siteada/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/siteada.git
+   git clone https://github.com/seu-usuario/site-ada-lovelace.git
    ```
 
 2. **Acesse o diretório do projeto**:
    ```bash
-   cd siteada
+   cd site-ada-lovelace
    ```
 
 3. **Abra o arquivo `index.html`** no seu navegador preferido.
